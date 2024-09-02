@@ -39,13 +39,6 @@ python detect.py
 
 > **Note**: To stop video or webcam detection, press the `q` key.
 
-### Example Usage
-#### Image Detection
-
-```bash
-detection_model
-```
-
 ### Notes
 - Ensure the paths to the image and video files are correctly specified.
 - The YOLOv8 model used is the 'n' (nano) version. You can change the model by modifying the model path in the script.
